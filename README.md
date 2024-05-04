@@ -1,16 +1,12 @@
 # prueba_intermedia_1
 
-A new Flutter project.
+Un pequeño programa en flutter el cual al hacer click sobre el cuadro este cambia de color
 
-## Getting Started
+Algunas imagenes del proyecto
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/AaronStivens/prueba_intermedia_1/assets/127124353/d244dc6b-4f4b-4637-8a86-7bd7223ebc75)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/AaronStivens/prueba_intermedia_1/assets/127124353/12c6786f-fb59-4e56-814e-e82372e355f3)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Aaron Stivens Hernandez 617111397
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
